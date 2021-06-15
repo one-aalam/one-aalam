@@ -31,7 +31,8 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...
 
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/one-aalam.one-aalam/readme)
+
 
 - ⚡ Fun fact: ...
 -->
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/one-aalam.one-aalam/readme)
