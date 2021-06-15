@@ -6,7 +6,7 @@
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-aalam&theme=dark"/>
 </a>
 
-I'm a Javascript Architect/Lead with over a decade of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcomes of the work I do and can share publicly.
+I'm a Javascript Architect/Lead with over a decade of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 
 Here are some ideas to get you started:
