@@ -2,8 +2,8 @@
 
 
 <a href="https://github.com/one-aalam">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=one-aalam&show_icons=true&theme=dark&include_all_commits=true&count_private=true&PAT_1"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-aalam&theme=dark&PAT_1"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api?username=one-aalam&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-aalam&theme=dark"/>
 </a>
 
 I'm a Javascript Architect/Lead with over a decade of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
