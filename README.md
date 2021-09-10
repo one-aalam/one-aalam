@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 
 -->
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/one-aalam.one-aalam/readme)
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/one-aalam.one-aalam/readme)(_Since 15th June, 2021_)
