@@ -1,9 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aftab Alam
+Hi! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Welcome to Aftab's Github Profile
 ==================================================================================================================================
-
-Full-stack Web Experimentalist
-------------------------------
-
 I'm a Javascript Architect/Lead with over a decade+ of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiosity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly
 
 * 🌍  I'm based in Delhi, India
